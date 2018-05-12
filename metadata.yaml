@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13085#A-Diversity-of-Creatures
 gutenberg_issued: '2004-08-02'
 gutenberg_type: Text
 identifiers:
