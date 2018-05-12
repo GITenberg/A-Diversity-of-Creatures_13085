@@ -1,0 +1,38 @@
+_repo: A-Diversity-of-Creatures_13085
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'English poetry'
+tableOfContents: As Easy as ABC -- MacDonough's Song -- Friendly Brook -- The Land
+  -- In the Same Boat -- 'Helen all Alone' -- The Honours of War -- The Children --
+  The Dog Hervey -- The Comforters -- The Village that Voted the Earth was Flat --
+  The Press -- In the Presence -- Jobson's Amen -- Regulus -- A Translation -- The
+  Edge of the Evening -- Rebirth -- The Horse Marines -- The Legend of Mirth -- 'My
+  Son's Wife' -- The Floods -- The Fabulists -- The Vortex -- The Song of Seven Cities
+  -- 'Swept and Garnished' -- Mary Postgate -- The Beginnings.
+title: A Diversity of Creatures
+url: http://www.gutenberg.org/ebooks/13085
